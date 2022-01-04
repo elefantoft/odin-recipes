@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will build a basic website showcasing different recpies. This project is part of The Odin Project Foundations course (https://www.theodinproject.com). It's a simple HTML-project, which will both test and showcase what I've learned up until this point. 
